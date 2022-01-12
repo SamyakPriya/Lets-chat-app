@@ -1,0 +1,26 @@
+button{
+    border-color: chartreuse;
+    border-style: dotted;
+    cursor: pointer;
+    color: cyan;
+    width: 85px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: chartreuse;
+}
+body{
+    background-color: chartreuse;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+}
+.logo{
+    width: 400px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: cyan;
+    border-style: solid;
+}
